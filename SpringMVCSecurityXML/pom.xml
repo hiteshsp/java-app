@@ -3,14 +3,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
    http://maven.apache.org/maven-v4_0_0.xsd">
     
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>org.o7planning</groupId>
-  <artifactId>SpringMVCSecurityXML</artifactId>
-  <packaging>war</packaging>
-  <version>0.0.2-SNAPSHOT</version>
-  <name>SpringMVCSecurityXML Maven Webapp</name>
-  <url>http://maven.apache.org</url>
- 
+<modelVersion>4.0.0</modelVersion>
+<groupId>CommonKeywords</groupId>
+<artifactId>CommonKeywords</artifactId>
+<version>0.0.1-SNAPSHOT-${build.number}</version>
+<packaging>war</packaging>
+<name>SpringMVCSecurityXML Maven Webapp</name>
+<url>http://maven.apache.org</url>
  
  
  
